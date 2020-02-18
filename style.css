@@ -1,0 +1,25 @@
+div{
+    height: 450px;
+    width: 950px;
+    background-color: rgb(38, 72, 123);
+    color: white;
+    font-family:  'Roboto', sans-serif;
+    font-size: 12px;
+    line-height: 17px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+input{
+    height: 28px;
+    width: 208px;
+    background-color: rgb(55, 52, 80);
+    border: 0px;
+    margin-bottom: 20px;
+    color: white;
+    border-radius: 5px;
+}
+#fcomment{
+    height:40px ;
+}
